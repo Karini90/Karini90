@@ -1,5 +1,5 @@
 ### 🦋 Olá pessoal, me chamo Karini! 🦋
-### 🩺 Estou em transição de carreira, trabalho na área da saúde
+### 🩺 Trabalho na área da saúde e estou em transição de carreira
 ### 🛠️ Atualmente estou aprendendo
 
 | <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"> | <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40"> |
